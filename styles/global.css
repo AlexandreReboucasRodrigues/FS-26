@@ -1,0 +1,37 @@
+:root{
+  --cor-principal: #354f52e7 ;
+  --cor-secundaria: #895fe3;
+  --cor-tercearia: #040622;
+  --cor-generica: #cad2c5;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: var(--cor-generica);
+}
+
+body {
+    background-color: var(--cor-principal);
+    font-family: "Poppins";
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+
+
+  
+
+ 
+  
